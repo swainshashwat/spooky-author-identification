@@ -1,2 +1,2 @@
-# Spp=ooky Author Identification
-Exploring NLP.
+# Spooky Author Identification
+Exploring NLP
